@@ -1,0 +1,30 @@
+{
+  "1.1.0": {
+    "Add": [
+      {"path": "path/to/file1", "description": "Thêm file cấu hình mới"},
+      {"path": "path/to/file2", "description": "Thêm file dữ liệu mới"}
+    ],
+    "Remove": [
+      {"path": "path/to/file3"},
+      {"path": "path/to/file4"}
+    ],
+    "Edit": [
+      {"path": "path/to/file5", "description": "Chỉnh sửa file script"},
+      {"path": "path/to/file6", "description": "Chỉnh sửa file style"}
+    ]
+  },
+  "1.2.0": {
+    "Add": [
+      {"path": "path/to/file7", "description": "Thêm file module mới"},
+      {"path": "path/to/file8", "description": "Thêm file test mới"}
+    ],
+    "Remove": [
+      {"path": "path/to/file9"},
+      {"path": "path/to/file10"}
+    ],
+    "Edit": [
+      {"path": "path/to/file11", "description": "Chỉnh sửa file config"},
+      {"path": "path/to/file12", "description": "Chỉnh sửa file README"}
+    ]
+  }
+}
